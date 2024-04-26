@@ -1,3 +1,4 @@
+namespace app_tempo;
 public class results
 {
 public int temp {get;set;}
